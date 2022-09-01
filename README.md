@@ -49,7 +49,7 @@
 </a>
 </div>
 
-<h3>Thanks To @thijnmens for inspireing me to make this readme.md</h3>
+<h3>Cheese</h3>
 
 
 
