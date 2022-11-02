@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm **Demon!**
-![](https://visitor-badge.laobi.icu/badge?page_id=demonchrisey.demonchrisey) [![Github](https://img.shields.io/github/followers/demonchrisey?label=Followers&logo=Github)](https://github.com/demonchrisey)
+![](https://visitor-badge.laobi.icu/badge?page_id=DemonOnGithub.DemonOnGithub) [![Github](https://img.shields.io/github/followers/DemonOnGithub?label=Followers&logo=Github)](https://github.com/DemonOnGithub)
 
 
 
@@ -41,11 +41,11 @@
 ## 🏆 My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=demonchriisey&theme=nightowl">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=demonchrisey&count_private=true&show_icons=true&theme=nightowl" />
+<a href="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&theme=nightowl">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&count_private=true&show_icons=true&theme=nightowl" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=demonchrisey&hide=php&theme=nightowl">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demonchrisey&hide=php&theme=nightowl" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=nightowl">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=nightowl" />
 </a>
 </div>
 
