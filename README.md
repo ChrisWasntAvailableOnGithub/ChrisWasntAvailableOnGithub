@@ -46,8 +46,6 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=nightowl">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=nightowl" />
-</a>
-</div>
 
 </p>
 
