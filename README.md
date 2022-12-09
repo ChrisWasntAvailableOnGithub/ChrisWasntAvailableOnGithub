@@ -39,7 +39,7 @@
 <br />
 
 ## 🏆 My Github Stats:
-
+<p align="center">
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&theme=nightowl">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&count_private=true&show_icons=true&theme=nightowl" />
