@@ -41,11 +41,11 @@
 ## 🏆 My Github Stats:
 <p align="center">
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&theme=nightowl">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&count_private=true&show_icons=true&theme=nightowl" />
+<a href="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&theme=synthwave">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&count_private=true&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=nightowl">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=nightowl" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=synthwave">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=synthwave" />
 
 </p>
 
