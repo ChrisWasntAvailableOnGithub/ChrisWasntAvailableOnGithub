@@ -48,11 +48,5 @@
 
 </p>
 
-<br />
 
-## 🏆 My Portfolo
-<p align="center">
-- <a href="https://tekpek.xyz">Tekpek</a>
-
-</a>
 </div>
