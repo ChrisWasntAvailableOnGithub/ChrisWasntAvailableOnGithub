@@ -1,7 +1,4 @@
 ## Hi there 👋 I'm **Demon!**
-![](https://visitor-badge.laobi.icu/badge?page_id=DemonOnGithub.DemonOnGithub) [![Github](https://img.shields.io/github/followers/DemonOnGithub?label=Followers&logo=Github)](https://github.com/DemonOnGithub)
-
-
 
 
 ## 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Cybersecurity/Networking
@@ -46,6 +43,8 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=synthwave">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=synthwave" />
+ 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=DemonOnGithub.DemonOnGithub) [![Github](https://img.shields.io/github/followers/DemonOnGithub?label=Followers&logo=Github)](https://github.com/DemonOnGithub)
 
 </p>
 
