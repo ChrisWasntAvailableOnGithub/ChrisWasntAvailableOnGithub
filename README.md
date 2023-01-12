@@ -36,6 +36,7 @@
 <br />
 
 ## 🏆 My Github Stats:
+## this section is broken idk why
 <p align="center">
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&theme=synthwave">
