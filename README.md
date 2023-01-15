@@ -7,7 +7,8 @@
 - 🌱 Still learning how to code properly. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: Arch Linux On Top.
+- ⚡ Fun fact: I Like F1
+- 🟢 Fuck Nivida
 - 🌳 Outside is scary.
 
 ## 📧 Find me on:
