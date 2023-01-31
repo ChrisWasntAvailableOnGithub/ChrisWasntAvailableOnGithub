@@ -14,7 +14,7 @@
 ## 📧 Find me on:
 
 <p align="center">
- <a href="https://twitter.com/demonchrisey" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/382/266/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/notdemonontwitch" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/382/266/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
