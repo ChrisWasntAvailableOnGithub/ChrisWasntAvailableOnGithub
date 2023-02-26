@@ -1,9 +1,9 @@
-## Hi there 👋 I'm **Demon!**
+## Hi there 👋 I'm **Chris**
 
 
-## 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Cybersecurity/Networking
+## 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Programming & Networking
 
-- 🔭 Currently developing a website & discord bot.
+- 🔭 Currently developing a website.
 - 🌱 Still learning how to code properly. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
@@ -39,13 +39,13 @@
 ## 🏆 My Github Stats:
 <p align="center">
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&theme=synthwave">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=DemonOnGithub&count_private=true&show_icons=true&theme=synthwave" />
+<a href="https://github-readme-stats.vercel.app/api?username=ChrisOnGithubWasntAvailable&theme=synthwave">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ChrisOnGithubWasntAvailable&count_private=true&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=synthwave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemonOnGithub&hide=php&theme=synthwave" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOnGithubWasntAvailable&hide=php&theme=synthwave">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOnGithubWasntAvailable&hide=php&theme=synthwave" />
  
- ![](https://visitor-badge.laobi.icu/badge?page_id=DemonOnGithub.DemonOnGithub) [![Github](https://img.shields.io/github/followers/DemonOnGithub?label=Followers&logo=Github)](https://github.com/DemonOnGithub)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisOnGithubWasntAvailable.ChrisOnGithubWasntAvailable) [![Github](https://img.shields.io/github/followers/ChrisOnGithubWasntAvailable?label=Followers&logo=Github)](https://github.com/ChrisOnGithubWasntAvailable)
 
 </p>
 
