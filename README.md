@@ -19,7 +19,7 @@
 
 <br />
 
-## My Projects
+## 📋 My Projects
 
 <a href="https://notdemon.xyz">My Website</a>
 
