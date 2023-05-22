@@ -1,4 +1,4 @@
-## Hi there 👋 I'm **Chris**
+## <p align="center"> Hi there 👋 I'm **Chris**
 
 
 ## 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Programming & Networking
