@@ -21,13 +21,14 @@
 
 ## <p align="center">📋 My Projects
 
-<p align="center"> <a href="https://notdemon.xyz">My Website</a>
+<p align="center"> <a href="https://notdemon.xyz">My Website</a>#
+<p align="center"> <a href="https://projects.notdemon.xyz/weatherapp/index.html">Weather Website (using the open weather map API</a>
 
 </p>
 
 <br />
 
-## 🧰 Languages and Tools:
+## <p align="center"> 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -43,7 +44,7 @@
 
 <br />
 
-## 🏆 My Github Stats:
+## <p align="center"> 🏆 My Github Stats:
 <p align="center">
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ChrisOnGithubWasntAvailable&theme=synthwave">
@@ -56,7 +57,7 @@
 
 </p>
  
-## The Crypto Anarchist Manifesto
+## <p align="center">The Crypto Anarchist Manifesto
 <p align="center">
  A specter is haunting the modern world, the specter of crypto anarchy.
 
