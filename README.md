@@ -1,17 +1,17 @@
 ## <p align="center"> Hi there 👋 I'm **Chris**
 
 
-## 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Programming & Networking
+## <p align="center"> 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Programming & Networking
 
-- 🔭 Currently developing a website.
-- 🌱 Still learning how to code properly. 
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything.
-- ⚡ Fun fact: I Like F1
-- 🟢 Fuck Nivida
-- 🌳 Outside is scary.
+<p align="center">- 🔭 Currently developing a website.
+<p align="center">- 🌱 Still learning how to code properly. 
+<p align="center">- 👯 I’m looking to collaborate with anyone on any project.
+<p align="center">- 💬 Ask me about anything.
+<p align="center">- ⚡ Fun fact: I Like F1
+<p align="center">- 🟢 Fuck Nivida
+<p align="center">- 🌳 Outside is scary.
 
-## 📧 Find me on:
+## <p align="center">📧 Find me on:
 
 <p align="center">
  <a href="https://twitter.com/notdemonontwitch" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/382/266/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
