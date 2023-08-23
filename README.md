@@ -14,14 +14,14 @@
 ## <p align="center">📧 Find me on:
 
 <p align="center">
- <a href="https://twitter.com/notdemonontwitch" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/382/266/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/chriswasntavailable" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/382/266/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
 
 ## <p align="center">📋 My Projects
 
-<p align="center"> <a href="https://notdemon.xyz">My Website</a>
+<p align="center"> <a href="https://chriswasntavailable.xyz">My Website</a>
 <p align="center"> <a href="https://projects.notdemon.xyz/weatherapp/index.html">Weather Website (using the open weather map API)</a>
 
 </p>
