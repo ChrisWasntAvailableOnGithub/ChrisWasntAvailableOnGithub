@@ -47,13 +47,13 @@
 ## <p align="center"> 🏆 My Github Stats:
 <p align="center">
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=ChrisOnGithubWasntAvailable&theme=synthwave">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ChrisOnGithubWasntAvailable&count_private=true&show_icons=true&theme=synthwave" />
+<a href="https://github-readme-stats.vercel.app/api?username=ChrisWasntAvailableOnGithub&theme=synthwave">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ChrisWasntAvailableOnGithub&count_private=true&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOnGithubWasntAvailable&hide=php&theme=synthwave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOnGithubWasntAvailable&hide=php&theme=synthwave" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWasntAvailableOnGithub&hide=php&theme=synthwave">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWasntAvailableOnGithub&hide=php&theme=synthwave" />
  
- ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisOnGithubWasntAvailable.ChrisOnGithubWasntAvailable) [![Github](https://img.shields.io/github/followers/ChrisOnGithubWasntAvailable?label=Followers&logo=Github)](https://github.com/ChrisOnGithubWasntAvailable)
+ ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisWasntAvailableOnGithub.ChrisWasntAvailableOnGithub [![Github](https://img.shields.io/github/followers/ChrisWasntAvailableOnGithub?label=Followers&logo=Github)](https://github.com/ChrisWasntAvailableOnGithub)
 
 </p>
  
