@@ -5,7 +5,6 @@
 
 <p align="center">- 🔭 Currently developing a website.
 <p align="center">- 🌱 Still learning how to code properly. 
-<p align="center">- 👯 I’m looking to collaborate with anyone on any project.
 <p align="center">- 💬 Ask me about anything.
 <p align="center">- ⚡ Fun fact: I Like F1
 <p align="center">- 🟢 Fuck Nivida
