@@ -21,7 +21,7 @@
 ## <p align="center">📋 My Projects
 
 <p align="center"> <a href="https://chriswasntavailable.xyz">My Website</a>
-<p align="center"> <a href="https://projects.notdemon.xyz/weatherapp/index.html">Weather Website (using the open weather map API)</a>
+<p align="center"> <a href="https://projects.chriswasntavailable.xyz/web/weatherapp/index.html">Weather Website (using the open weather map API)</a>
 
 </p>
 
