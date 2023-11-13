@@ -1,12 +1,8 @@
 ## <p align="center"> Hi there 👋 I'm **Chris**
 
-
-## <p align="center"> 🎓 I'm an Trainee Programmer That Is Trying To Get A Degree Within Programming & Networking
-
 <p align="center">- 🔭 Currently developing a website.
-<p align="center">- 🌱 Still learning how to code properly. 
 <p align="center">- 💬 Ask me about anything.
-<p align="center">- ⚡ Fun fact: I Like F1
+<p align="center">- ⚡ Fun fact: You burn 70% of the calories you consume just by living
 <p align="center">- 🟢 Fuck Nivida
 <p align="center">- 🌳 Outside is scary.
 
@@ -22,6 +18,7 @@
 
 <p align="center"> <a href="https://chriswasntavailable.xyz">My Website</a>
 <p align="center"> <a href="https://projects.chriswasntavailable.xyz/web/weatherapp/index.html">Weather Website (using the open weather map API)</a>
+<p align="center"> <a href="https://apollo.chriswasntavailable.xyz/discord">Apollo By Chris (Discord Bot)</a>
 
 </p>
 
