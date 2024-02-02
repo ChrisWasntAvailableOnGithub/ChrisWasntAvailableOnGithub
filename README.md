@@ -1,60 +1,46 @@
-## <p align="center"> Hi there 👋 I'm **Chris**
+<h1 align="center">Hi 👋, I'm Chris</h1>
+<h3 align="center">an IT and Web Development GCSE Student from Ireland</h3>
 
-<p align="center">- 🔭 Currently developing a website.
-<p align="center">- 💬 Ask me about anything.
-<p align="center">- ⚡ Fun fact: You burn 70% of the calories you consume just by living
-<p align="center">- 🟢 Fuck Nivida
-<p align="center">- 🌳 Outside is scary.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chriswasntavailableongithub&label=Profile%20views&color=54084b&style=flat" alt="chriswasntavailableongithub" /> </p>
 
-## <p align="center">📧 Find me on:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chriswasntavailableongithub" alt="chriswasntavailableongithub" /></a> </p>
 
-<p align="center">
- <a href="https://twitter.com/chriswasntavailable" target="_blank" rel="noopener noreferrer"> <img src="https://w7.pngwing.com/pngs/382/266/png-transparent-computer-icons-twitter-logo-logo-monochrome-black.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+- 🔭 I’m currently working on **Nothing**
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **Something Probably, Drop me an Email**
+
+- 🤝 I’m looking for help with **Nothing**
+
+- 👨‍💻 All of my projects are available at [https://chriswasntavailable.xyz/portfolio](https://chriswasntavailable.xyz/portfolio)
+
+- 📝 I regularly write articles on [https://blog.chriswasntavailable.xyz/](https://blog.chriswasntavailable.xyz/)
+
+- 💬 Ask me about **Website Development**
+
+- 📫 How to reach me **chris@chriswasntavailable.xyz**
+
+- 📄 Know about my experiences [https://resume.chriswasntavailable.xyz](https://resume.chriswasntavailable.xyz)
+
+- ⚡ Fun fact **⚡ Fun fact: You burn 70% of the calories you consume just by living**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/JDmkvJMmvu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JDmkvJMmvu" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## <p align="center">📋 My Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chriswasntavailableongithub&show_icons=true&theme=tokyonight&title_color=454444&text_color=ffffff&bg_color=21093e&hide_border=true&locale=en&layout=compact" alt="chriswasntavailableongithub" /></p>
 
-<p align="center"> <a href="https://chriswasntavailable.xyz">My Website</a>
-<p align="center"> <a href="https://projects.chriswasntavailable.xyz/web/weatherapp/index.html">Weather Website (using the open weather map API)</a>
-<p align="center"> <a href="https://apollo.chriswasntavailable.xyz/discord">Apollo By Chris (Discord Bot)</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chriswasntavailableongithub&show_icons=true&theme=tokyonight&title_color=454545&text_color=ffffff&bg_color=21093e&locale=en" alt="chriswasntavailableongithub" /></p>
 
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chriswasntavailableongithub&theme=dark" alt="chriswasntavailableongithub" /></p>
 
-<br />
+<br>
 
-## <p align="center"> 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://avatars.githubusercontent.com/u/26377421?v=4" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-
-</p>
-
-<br />
-
-## <p align="center"> 🏆 My Github Stats:
-<p align="center">
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=ChrisWasntAvailableOnGithub&theme=synthwave">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ChrisWasntAvailableOnGithub&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWasntAvailableOnGithub&hide=php&theme=synthwave">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisWasntAvailableOnGithub&hide=php&theme=synthwave" />
- 
- ![](https://visitor-badge.laobi.icu/badge?page_id=ChrisWasntAvailableOnGithub.ChrisWasntAvailableOnGithub [![Github](https://img.shields.io/github/followers/ChrisWasntAvailableOnGithub?label=Followers&logo=Github)](https://github.com/ChrisWasntAvailableOnGithub)
-
-</p>
- 
- <br />
- 
 ## <p align="center">The Crypto Anarchist Manifesto
 <p align="center">
  A specter is haunting the modern world, the specter of crypto anarchy.
