@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chriswasntavailableongithub" alt="chriswasntavailableongithub" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **My GCSE Course Site called Mobile World Station**
 
 - 🌱 I’m currently learning **React**
 
@@ -15,13 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://chriswasntavailable.xyz/portfolio](https://chriswasntavailable.xyz/portfolio)
 
-- 📝 I regularly write articles on [https://blog.chriswasntavailable.xyz/](https://blog.chriswasntavailable.xyz/)
+- 📝 I write articles and rants on [https://blog.chriswasntavailable.xyz/](https://blog.chriswasntavailable.xyz/)
 
 - 💬 Ask me about **Website Development**
 
 - 📫 How to reach me **chris@chriswasntavailable.xyz**
-
-- 📄 Know about my experiences [https://resume.chriswasntavailable.xyz](https://resume.chriswasntavailable.xyz)
 
 - ⚡ Fun fact **⚡ Fun fact: You burn 70% of the calories you consume just by living**
 
