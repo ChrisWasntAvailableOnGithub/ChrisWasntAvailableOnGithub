@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chriswasntavailableongithub" alt="chriswasntavailableongithub" /></a> </p>
 
-- 🔭 I’m currently working on **My GCSE Course Site called Mobile World Station**
+- 🔭 I’m currently working on **ApolloMC | discord.gg/apollomc**
 
 - 🌱 I’m currently learning **React**
 
