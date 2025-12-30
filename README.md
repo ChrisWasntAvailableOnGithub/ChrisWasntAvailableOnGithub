@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chriswasntavailableongithub" alt="chriswasntavailableongithub" /></a> </p>
 
-- 🔭 I’m currently working on **ApolloMC | discord.gg/apollomc**
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Something Probably, Drop me an Email**
 
 - 🤝 I’m looking for help with **Nothing**
 
-- 👨‍💻 All of my projects are available at [https://chriswasntavailable.xyz/portfolio](https://chriswasntavailable.xyz/portfolio)
-
 - 📝 I write articles and rants on [https://blog.chriswasntavailable.xyz/](https://blog.chriswasntavailable.xyz/)
-
-- 💬 Ask me about **Website Development**
 
 - 📫 How to reach me **chris@chriswasntavailable.xyz**
 
