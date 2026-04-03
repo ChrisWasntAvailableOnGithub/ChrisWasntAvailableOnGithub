@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">an IT and Web Development GCSE Student from Ireland</h3>
+<h3 align="center">and I am a Level 3 Information Technology student in Northern Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriswasntavailableongithub&label=Profile%20views&color=54084b&style=flat" alt="chriswasntavailableongithub" /> </p>
 
